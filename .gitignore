@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Keystore (https) ###
+*.p12
+
+### Application properties ###
+*.properties
